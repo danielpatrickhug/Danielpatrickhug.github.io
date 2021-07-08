@@ -1,0 +1,2 @@
+# danielpatrickhug.github.io
+blog
