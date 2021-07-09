@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Hi, my name's Daniel Hug, I'm from Long Island, NY. I've been coding for around 7 years now, I have a B.S. Computer Science degree from University at Albany. I'm interested in the the intersection between Software engineering and Machine learning.
